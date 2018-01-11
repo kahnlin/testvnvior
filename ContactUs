@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="InQuartik。孚創雲端融合雲端技術、巨量分析與專利實務經驗，整合專利與非專利文獻資料，以開放式創新的大數據雲服務模式提供大眾新經濟智慧。我們目標成為全球最受歡迎與信賴的智慧經濟引領者，為企業及個人打造智慧財產生命週期解決方案，攜手創造新知識經濟價值。">
+    <meta name="keywords" content="孚創雲端,InQuartik,Patentcloud,Patentcloud portal,專利檢索與分析,營業秘密管理,專利佈局管理,專利風險管理,專利資產管理, Patent search and analysis,Intellectual property management,patent risk management,patent asset management,trade secret management">
+    <title>ContactUs | InQuartik</title>
+    <link rel="icon" href="favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="/Content/animate.min.css" rel="stylesheet" type="text/css">
+    <link href="/Content/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="/Content/fonts.css" rel="stylesheet" type="text/css">
+    <link href="/Content/patentcloud-icon.css" rel="stylesheet" type="text/css">
+    <link href="/Content/plugins.css" rel="stylesheet" type="text/css">
+    <link href="/Content/responsive.css" rel="stylesheet" type="text/css">
+    <link href="/Content/Site.css" rel="stylesheet" type="text/css">
+    <link href="/Content/patentcloud.css" rel="stylesheet" type="text/css">
+    <link href="/Content/bootstrap-submenu.min.css" rel="stylesheet" type="text/css">
+    <link href="/Content/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div id="page" class="page">
+        <!-- MENU Section-->
+        <header>
+            <nav class="navbar fixed-nav navbar-default  navbar-fixed-top" id="main-navbar" role="navigation">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a href="/" class="navbar-brand top-logo"><img src="images/InQlogo.png" alt="logo"></a>
+                    </div>
+                    <!--end navbar-header -->
+                    <div class="collapse navbar-collapse" id="navbar-collapse">
+                        <ul class="nav navbar-nav pull-right">
+                            <li class="propClone"><a class="" href="/">Home</a></li>
+                            
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-submenu>Products<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li class="dropdown-submenu">
+                                        <strong><a class="" href="/ProductsPC">Patentcloud</a></strong>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="" href="/ProductsVI">Validity Insights</a></li>
+                                            <li><a class="" href="/ProductsPS">Patent Search</a></li>
+                                            <li><a class="" href="/ProductsDS">Design Search</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="propClone"><a class="active" href="/ContactUs">Contact Us</a></li>
+                            <li class="propClone"><a class="" href="/Careers">Careers</a></li>
+                        </ul>
+                    </div>
+                    <!--end collapse -->
+                </div>
+                <!--end container -->
+            </nav>
+        </header>
+
+        
+
+
+
+<section id="home" class="home-wrap home-msg3 header-position">
+    <div class="overlay headerGreyOverlay">
+        <div class="container">
+            <div class="row">
+                <!--HOME LEFT START-->
+                <div class="home-intro-left">
+                    <div class="intro-wrap">
+                        <!--Header text -->
+                        <h2>You Can Find Us Here</h2>
+                    </div>
+                </div>
+                <!--HOME LEFT END-->
+            </div>
+        </div>
+    </div>
+</section>
+<section id="services" class="sections questionTxtSection">
+    <!-- Service Section-->
+    <div class="container txtWidth">
+        <div class="row coloricon">
+            <div class="service-box wow fadeInLeft" data-wow-offset="120" data-wow-duration="1.5s">
+                <h3>Questions about how our products can benefit you? </h3>
+                <p class="txtGrey">Feel free to contact us and we will be happy to show you the path to success.</p>
+            </div>
+        </div>
+        <!--end row-->
+    </div>
+</section>
+<!-- OFFICES HONGKONG -->
+<section class="officesSection hongKong">
+    <div class="placeTitle">
+        <h2>Office Location</h2>
+        <div class="separator"></div>
+    </div>
+    <div class="officeWrapper">
+        <div class="placeTxtWrapper">
+            <div class="txtPlace">
+                <h3>Hong Kong</h3>
+                <ul>
+                    <li><i class="material-icons">email</i> <span>service@inquartik.com</span></li>
+                    <li><i class="material-icons">phone</i> <span>+852-2961-4515</span></li>
+                    <li><i class="material-icons">place</i> <span>Rm 2201 Tower Two, Times Square, 1 Matheson St., Causeway Bay, Hong Kong</span></li>
+                </ul>
+            </div>
+        </div>
+        <div class="mapResponsive">
+            <div id="map"></div>
+        </div>
+    </div>
+</section>
+
+<!-- OFFICES TAIWAN -->
+<section class="officesSection taiwan">
+    <div class="placeTitle">
+        <h2>R&amp;D Center</h2>
+        <div class="separator"></div>
+    </div>
+    <div class="officeWrapper">
+        <div class="placeTxtWrapper">
+            <div class="txtPlace">
+                <h3>Taiwan</h3>
+                <ul>
+                    <li><i class="material-icons">phone</i> <span>+886-2-7733-0277</span></li>
+                    <li><i class="material-icons">place</i> <span>6F., No.32, Jihu Rd., Neihu Dist., Taipei City 114, Taiwan (R.O.C.)</span></li>
+                </ul>
+            </div>
+        </div>
+        <div class="mapResponsive">
+            <div id="mapTw"></div>
+        </div>
+    </div>
+</section>
+<!--/-->
+
+<!--/-->
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-102181955-1', 'auto');
+    ga('send', 'pageview');
+
+    function initMap() {
+        var hkAddress = { lat: 22.278208, lng: 114.182299 };
+        var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 17,
+            center: hkAddress
+        });
+        var markerHk = new google.maps.Marker({
+            position: hkAddress,
+            map: map
+        });
+
+
+        var twAddress = { lat: 25.080638, lng: 121.564503 };
+        var mapTw = new google.maps.Map(document.getElementById('mapTw'), {
+            zoom: 17,
+            center: twAddress
+        });
+        var markerTw = new google.maps.Marker({
+            position: twAddress,
+            map: mapTw
+        });
+    }
+</script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCGCA2-6CgHS19f2QbnNnj93UfkouCb7Ws&callback=initMap">
+</script>
+
+
+        <!-- FOOTER Section-->
+        <footer id="footer" class="footer">
+            <div class="container">
+                <div class="text-center txt-theme social-links">
+                    <span><a href="tel:+852-2961-4515" class="phone"><i class="fa fa-phone-square" style="font-size:24px;color:#FFFFFF"></i></a></span>&nbsp;&nbsp;
+                    <span><a href="mailto:service@inquartik.com" class="rs_email" target="_blank"><i class="fa fa-envelope" style="font-size:24px;color:#FFFFFF"></i></a></span>&nbsp;&nbsp;
+                    <span><a href="https://facebook.com/InQuartik/" class="facebook" target="_blank"><i class="fa fa-facebook-square" style="font-size:24px;color:#FFFFFF"></i></a></span>&nbsp;&nbsp;
+                    <span><a href="https://www.linkedin.com/company/inquartik-co" class="linkedin" target="_blank"><i class="fa fa-linkedin-square" style="font-size:24px;color:#FFFFFF"></i></a></span>&nbsp;&nbsp;
+                </div>
+                <div class="text-center txt-theme">
+                    <span>Copyright &copy; 2017 InQuartik Co. Limited. All rights reserved.</span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="/bundles/vendorjs?v=BmT7xPYgnXm9DvtLJFikZ4kWEx79c0IUtL3vnLhaXs41"></script>
+
+    <script src="/bundles/js?v=aNWgejm6KHwaeNpYwCIv_zAiACmgyV-Tov1bDLSewGs1"></script>
+
+
+    
+</body>
+</html>
